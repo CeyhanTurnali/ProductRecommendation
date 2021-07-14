@@ -20,3 +20,10 @@
 6.	For outputs, as you mentioned on the paper I chose a product and use this similarity function and recommended products. The products which are recommended on below.
 
 ![2021-07-13](https://user-images.githubusercontent.com/32933218/125441741-900a1adf-9ffd-4bac-a640-7444e1a58dad.png)
+
+# API 
+
+The api has a page for cart product and after take it, function calls and return 10 recomended products to page.
+
+![2021-07-14](https://user-images.githubusercontent.com/32933218/125624909-0d65a22d-b469-4a76-b7f5-c1ec0f172efb.png)
+
