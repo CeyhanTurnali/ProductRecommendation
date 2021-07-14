@@ -1,5 +1,4 @@
 # ProductRecommendation
-Personal Note: I couldnt finish API part. In my current job, We have  busy schedule on those days because of after fest the company will have a meeting for showing drones and SaaS system to investors and customers.If I give an example, I made Image Processing projects and their APIs to connect them to AWS. 
 
 1.	Json to CSV Convert
 2.	Merge Datasets
